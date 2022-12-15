@@ -3,7 +3,7 @@ A Flutter project.
 
 A simple app that adds two numbers.
 
-In this project I learned how to write custom platform-specific code (Android and IOS).
+In this project I learned how to write custom platform-specific code (Kotlin on Android and Swift on iOS).
 
 
 <img src="https://user-images.githubusercontent.com/99933941/207887209-274f8152-a185-4306-8c10-e4e4fb6a7f8e.jpg" alt="084699af-8540-4e91-b4c8-587b8a220a98" width="250"/>
